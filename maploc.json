@@ -1,0 +1,210 @@
+{
+	"bookshelves": [{
+		"annotation": "",
+		"cover": {
+			"large": "https://api.bookmate.ru/assets/bookshelves-covers/97/eb/U6OtDpOz-ipad.jpeg?image_hash=6a18de233633481e2de9f899aa283372",
+			"small": "https://api.bookmate.ru/assets/bookshelves-covers/97/eb/U6OtDpOz-thumb.jpeg?image_hash=fc5eff9e7baa4f373e67515d01fda045"
+		},
+		"uuid": "U6OtDpOz",
+		"title": "📖 Комиксы 📖",
+		"followers_count": 1,
+		"books_count": 0,
+		"following": false,
+		"posts_count": 9,
+		"creator": {
+			"id": 104935546,
+			"name": "Kristi kristall",
+			"login": "b5017086839",
+			"avatar": {
+				"large": "https://avatars.mds.yandex.net/get-yapic/36689/cK0v13Ld45D4Kn8b0cP2TSXTSg-1/islands-200",
+				"small": "https://avatars.mds.yandex.net/get-yapic/36689/cK0v13Ld45D4Kn8b0cP2TSXTSg-1/islands-200"
+			},
+			"gender": "m"
+		},
+		"authors": []
+	}, {
+		"annotation": "",
+		"cover": {
+			"large": "https://api.bookmate.ru/assets/bookshelves-covers/86/a2/N7Tb7bqR-ipad.jpeg?image_hash=91329626a57f70bd05961d4364f6dfd3",
+			"small": "https://api.bookmate.ru/assets/bookshelves-covers/86/a2/N7Tb7bqR-thumb.jpeg?image_hash=d789d4351456bea8b0041c7a5d32e13f"
+		},
+		"uuid": "N7Tb7bqR",
+		"title": "Хочу прочитать",
+		"followers_count": 1,
+		"books_count": 8,
+		"following": false,
+		"posts_count": 19,
+		"creator": {
+			"id": 107299011,
+			"name": "Binkabrus",
+			"login": "b4798231020",
+			"avatar": {
+				"large": "https://avatars.mds.yandex.net/get-yapic/27503/Ev4taNOJhQkvoTMClRmithHdM-1/islands-200",
+				"small": "https://avatars.mds.yandex.net/get-yapic/27503/Ev4taNOJhQkvoTMClRmithHdM-1/islands-200"
+			},
+			"gender": "m"
+		},
+		"authors": []
+	}, {
+		"annotation": "",
+		"cover": {
+			"large": "https://api.bookmate.ru/assets/bookshelves-covers/2e/89/zgSVL82H-ipad.jpeg?image_hash=5521afa21b03e3e5e4c098b04296e056",
+			"small": "https://api.bookmate.ru/assets/bookshelves-covers/2e/89/zgSVL82H-thumb.jpeg?image_hash=6cffd150484f06c33504b7e116ebdb6d"
+		},
+		"uuid": "zgSVL82H",
+		"title": "Комиксы",
+		"followers_count": 1,
+		"books_count": 1,
+		"following": false,
+		"posts_count": 12,
+		"creator": {
+			"id": 105931440,
+			"name": "Владимир Бармин",
+			"login": "b0039290875",
+			"avatar": {
+				"large": "https://avatars.mds.yandex.net/get-yapic/35885/wjZVJRpSBzkYunlT578M4VdY-1/islands-200",
+				"small": "https://avatars.mds.yandex.net/get-yapic/35885/wjZVJRpSBzkYunlT578M4VdY-1/islands-200"
+			},
+			"gender": "m"
+		},
+		"authors": []
+	}, {
+		"annotation": "",
+		"cover": {
+			"large": "https://api.bookmate.ru/assets/bookshelves-covers/59/ef/hoTu0sBt-ipad.jpeg?image_hash=d47969420af8ddf3df99f2116fcf61ee",
+			"small": "https://api.bookmate.ru/assets/bookshelves-covers/59/ef/hoTu0sBt-thumb.jpeg?image_hash=86ee04c8d23bd61412a397a36ca61974"
+		},
+		"uuid": "hoTu0sBt",
+		"title": "Комиксы",
+		"followers_count": 1,
+		"books_count": 1,
+		"following": false,
+		"posts_count": 15,
+		"creator": {
+			"id": 102719205,
+			"name": "Руда Стью",
+			"login": "b0495092492",
+			"avatar": {
+				"large": "https://avatars.mds.yandex.net/get-yapic/61207/shYq8bAyWvzPhWt0KruDUaZ3gg-1/islands-200",
+				"small": "https://avatars.mds.yandex.net/get-yapic/61207/shYq8bAyWvzPhWt0KruDUaZ3gg-1/islands-200"
+			},
+			"gender": "m"
+		},
+		"authors": []
+	}, {
+		"annotation": "",
+		"cover": {
+			"large": "https://api.bookmate.ru/assets/bookshelves-covers/f1/97/QZoYUUrZ-ipad.jpeg?image_hash=4cb0af7b3d69087096a2e3e11e04810c",
+			"small": "https://api.bookmate.ru/assets/bookshelves-covers/f1/97/QZoYUUrZ-thumb.jpeg?image_hash=65546b1918d6a816a95bd5fca5194115"
+		},
+		"uuid": "QZoYUUrZ",
+		"title": "Про животных",
+		"followers_count": 0,
+		"books_count": 7,
+		"following": false,
+		"posts_count": 8,
+		"creator": {
+			"id": 102092249,
+			"name": "Ammi Li",
+			"login": "b0497702135",
+			"avatar": {
+				"large": "https://avatars.mds.yandex.net/get-yapic/28053/IofqoxyozUPIcAib0dat3THKi4-1/islands-200",
+				"small": "https://avatars.mds.yandex.net/get-yapic/28053/IofqoxyozUPIcAib0dat3THKi4-1/islands-200"
+			},
+			"gender": "m"
+		},
+		"authors": []
+	}, {
+		"annotation": "",
+		"cover": {
+			"large": "https://api.bookmate.ru/assets/bookshelves-covers/c1/6c/AVLaW2VY-ipad.jpeg?image_hash=9806d8b39e0037dd4cf7cd49029f2125",
+			"small": "https://api.bookmate.ru/assets/bookshelves-covers/c1/6c/AVLaW2VY-thumb.jpeg?image_hash=216866ccb7c63dbaa0edebf1d5cea726"
+		},
+		"uuid": "AVLaW2VY",
+		"title": "О собаках",
+		"followers_count": 0,
+		"books_count": 3,
+		"following": false,
+		"posts_count": 7,
+		"creator": {
+			"id": 8552329,
+			"name": "Татьяна Мамонтова",
+			"login": "b1308748289",
+			"avatar": {
+				"large": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-200",
+				"small": "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-200"
+			},
+			"gender": "m"
+		},
+		"authors": []
+	}, {
+		"annotation": "Для общего развития, повышение насмотренности, поиск вдохновения и хорошего настроения ",
+		"cover": {
+			"large": "https://api.bookmate.ru/assets/bookshelves-covers/ed/c9/pSkBd8K8-ipad.jpeg?image_hash=c1b7a9c6d0107d492bc766ed02ca0dcd",
+			"small": "https://api.bookmate.ru/assets/bookshelves-covers/ed/c9/pSkBd8K8-thumb.jpeg?image_hash=5ff8254a01f09319aee29e56c0f04fb1"
+		},
+		"uuid": "pSkBd8K8",
+		"title": "Комиксы",
+		"followers_count": 0,
+		"books_count": 0,
+		"following": false,
+		"posts_count": 5,
+		"creator": {
+			"id": 101405827,
+			"name": "Дарья Ильина",
+			"login": "b4879993285",
+			"avatar": {
+				"large": "https://avatars.mds.yandex.net/get-yapic/43978/8a0MBzX1KWd63bZ46JeHHP757Q-1/islands-200",
+				"small": "https://avatars.mds.yandex.net/get-yapic/43978/8a0MBzX1KWd63bZ46JeHHP757Q-1/islands-200"
+			},
+			"gender": "m"
+		},
+		"authors": []
+	}, {
+		"annotation": "",
+		"cover": {
+			"large": "https://api.bookmate.ru/assets/bookshelves-covers/11/a7/dJHc2dkY-ipad.jpeg?image_hash=52a46c27d06dc69ab63daa60538fd160",
+			"small": "https://api.bookmate.ru/assets/bookshelves-covers/11/a7/dJHc2dkY-thumb.jpeg?image_hash=3210c7c8c99104189591611201198f76"
+		},
+		"uuid": "dJHc2dkY",
+		"title": "Комиксы",
+		"followers_count": 0,
+		"books_count": 0,
+		"following": false,
+		"posts_count": 14,
+		"creator": {
+			"id": 103920097,
+			"name": "ЕкатеринаСухареваКидаеттряпкиподноги",
+			"login": "b5139792249",
+			"avatar": {
+				"large": "https://avatars.mds.yandex.net/get-yapic/50595/XySQ9ausZySoprQDAYu7RHpjfs-1/islands-200",
+				"small": "https://avatars.mds.yandex.net/get-yapic/50595/XySQ9ausZySoprQDAYu7RHpjfs-1/islands-200"
+			},
+			"gender": "m"
+		},
+		"authors": []
+	}, {
+		"annotation": "",
+		"cover": {
+			"large": "https://api.bookmate.ru/assets/bookshelves-covers/f5/e6/gv4yc1Pa-ipad.jpeg?image_hash=b0c50c622b527f594b61e7f6a7aef0fd",
+			"small": "https://api.bookmate.ru/assets/bookshelves-covers/f5/e6/gv4yc1Pa-thumb.jpeg?image_hash=862606cf12d01e0bc6e2f3f7f1a02002"
+		},
+		"uuid": "gv4yc1Pa",
+		"title": "Ненавижу чарльз как он надоел почему он так дибильно работает",
+		"followers_count": 10000000000000000,
+		"books_count": 9999999999999999,
+		"following": false,
+		"posts_count": 5,
+		"creator": {
+			"id": 112643828,
+			"name": "Ненавижу чарльз как он надоел почему он так дибильно работает!@#$ ID_PLACEHOLDER 🧡🏀🐘",
+			"login": "b8044069894",
+			"avatar": {
+				"large": "https://avatars.mds.yandex.net/get-yapic/64336/94cRYgSSFFlj6zdCy2bfNmYJbo-1/islands-200",
+				"small": "https://avatars.mds.yandex.net/get-yapic/64336/94cRYgSSFFlj6zdCy2bfNmYJbo-1/islands-200"
+			},
+			"gender": "m"
+		},
+		"authors": []
+	}]
+}
